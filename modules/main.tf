@@ -1,5 +1,5 @@
 variable "input_version" {
-  default = "Module v1.0"
+  default = "Module v1.1"
 }
 
 output "output_version" {
